@@ -16,6 +16,7 @@ network:
     - github.blog
     - github.com
 tools:
+  edit: {}
   web-fetch: {}
 safe-outputs:
   create-pull-request: {}
