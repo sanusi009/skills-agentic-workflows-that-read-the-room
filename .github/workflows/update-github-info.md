@@ -15,6 +15,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit: {}
   web-fetch: {}
@@ -33,6 +34,7 @@ You are an agent that helps keep our GitHub information content up to date.
 2. Fetch the latest GitHub blog posts from:
    - https://github.blog/latest/
    - https://github.blog/changelog/
+    - https://awesome-copilot.github.com/workflows/
 
 3. Review the current content at `site/content/github-info.md`
 
